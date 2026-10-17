@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RoBuys
-- 👀 I’m interested in .Net and JS
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ?
+- 👀 I’m interested in .Net, Swift and JS
 - 📫 How to reach me ...
 
 <!---
