@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RoBuys
-- 👀 I’m interested in .Net, Swift and JS
-- 📫 How to reach me ...
+- 👀 I’m interested in .Net, Swift, Python and JS
 
 <!---
 RoBuys/RoBuys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
